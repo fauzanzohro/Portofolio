@@ -17,9 +17,9 @@ export default function Navbar() {
               <span className="font-black tracking-tighter text-lg block text-white">
                 OJANN<span className="text-[#CCFF00]">.DEV</span>
               </span>
-              <span className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest block">
+              {/* <span className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest block">
                 React + Express
-              </span>
+              </span> */}
             </div>
           </div>
 
