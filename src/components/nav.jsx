@@ -29,7 +29,6 @@ export default function Navbar() {
               { id: "home", label: "HOME" },
               { id: "skills", label: "TECH STACK" },
               { id: "projects", label: "PROJECTS" },
-              { id: "api-simulator", label: "EXPRESS API SIM" },
               { id: "experience", label: "TIMELINE" },
               { id: "contact", label: "CONTACT" },
             ].map((item) => (
