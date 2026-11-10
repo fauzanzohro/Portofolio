@@ -10,9 +10,9 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           {/* Logo Badge */}
           <div className="flex items-center gap-2">
-            <div className="w-9 h-9 bg-[#CCFF00] border-2 border-black flex items-center justify-center font-black text-black shadow-[2px_2px_0px_0px_#ffffff]">
+            {/* <div className="w-9 h-9 bg-[#CCFF00] border-2 border-black flex items-center justify-center font-black text-black shadow-[2px_2px_0px_0px_#ffffff]">
               ⚡
-            </div>
+            </div> */}
             <div className="leading-tight">
               <span className="font-black tracking-tighter text-lg block text-white">
                 OJANN<span className="text-[#CCFF00]">.DEV</span>
